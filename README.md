@@ -1,7 +1,9 @@
 # Prototype
  ## STOCK INVENTORY MANAGEMENT SYSTEM ( SIMS )                            
- The Prototype of the application shows the step by step Login page and Logical order and sequence in which the application is meant to function when the whole application is finsihed .
- Some of the images used are coutesy of Google images
+ The SIMS (Stock Inventory Mangment System ) Prototype shows the step by step Logical order and sequence in which the application is meant to function and interact when the whole application is finished .
+The prototype is just a concept of ideas that i want to incoporate but the overall layout and design might change as the project goes along but the concept of the application and use wont chnage .
+
+Someimages used are coutesy of Google images or similar concept that has been used 
    
 
 
