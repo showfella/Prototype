@@ -15,11 +15,13 @@ The prototype is just a concept of ideas that i want to incoporate but the overa
 * [Manage Order Page](https://github.com/showfella/Prototype/blob/master/Add%20and%20Manage%20Order.png)
 
 Login:
-User logs into the the application using created password and username 
+ User logs into the the application using created password and username 
+ 
 ![](https://github.com/showfella/Prototype/blob/master/Login%20page%20.png)
 
 New User:
 This page displays the form for registering new user for the application 
+
 ![](https://github.com/showfella/Prototype/blob/master/New%20%20user.png)
 
 Manage User :
