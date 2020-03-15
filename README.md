@@ -20,7 +20,7 @@ Login:
 ![](https://github.com/showfella/Prototype/blob/master/Login%20page%20.png)
 
 New User:
-- The System shall display the interface (form page)for registering new user for the application 
+- The System shall display the interface (form page) for registering new user for the application 
 
 ![](https://github.com/showfella/Prototype/blob/master/New%20%20user.png)
 
