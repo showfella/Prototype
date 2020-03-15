@@ -15,23 +15,23 @@ The prototype is just a concept of ideas that i want to incoporate but the overa
 * [Manage Order Page](https://github.com/showfella/Prototype/blob/master/Add%20and%20Manage%20Order.png)
 
 Login:
- User logs into the the application using created password and username 
+ The system shall enable Users log into the the application using created password and username 
  
 ![](https://github.com/showfella/Prototype/blob/master/Login%20page%20.png)
 
 New User:
-This page displays the form for registering new user for the application 
+The System shall display the form page for registering new user for the application 
 
 ![](https://github.com/showfella/Prototype/blob/master/New%20%20user.png)
 
 Manage User :
-This page is where the users are managed by the Admin of the Application. The admin has the functionality to delete and manage the level of access by each user and what the user is authorized to do 
+TThe System shall display the page where users are managed by the Admin of the Application. The admin has the functionality to delete and manage the level of access by each user and what the user is authorized to do 
 
 ![](https://github.com/showfella/Prototype/blob/master/Manage%20Users.png)
 
 
 The Manage Order: 
-This the page where orders are managed and processed for the warehouse and also the supplier 
+The System shall display the page where orders are managed and processed for the warehouse and also the supplier 
 
 ![](https://github.com/showfella/Prototype/blob/master/Add%20and%20Manage%20Order.png)
 
